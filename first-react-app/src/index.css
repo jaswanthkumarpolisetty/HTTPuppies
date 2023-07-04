@@ -1,0 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@500;700&family=Karla&family=Manrope:wght@400;800&family=Open+Sans&family=Poppins:wght@400;600;800;900&family=Roboto+Mono&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
